@@ -1,0 +1,7 @@
+.stockList{
+    margin: 20px 10px;
+    display:  flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-around;
+}

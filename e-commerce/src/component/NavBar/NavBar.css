@@ -1,0 +1,32 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    display: flex;
+    background-color: #3F9BB7;
+    justify-content: space-between;
+    margin: auto;
+
+}
+
+.navLogo {
+    font-weight: 600;
+    text-decoration: none;
+    font-style: italic;
+    font-size: medium;
+    margin-top: 5px;
+    color: black;
+    padding: 10px;
+
+}
+
+.navItems{
+    padding: 10px;
+}
+
+.navLinks button{
+    margin: 0 5px 0 5px;
+    font-size: medium;
+    border-radius: 5px;
+}

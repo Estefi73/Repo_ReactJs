@@ -1,0 +1,11 @@
+.order {
+  display: block;
+}
+
+.order h1 {
+  text-align: center;
+}
+
+.orderList{
+  margin: 5px;
+}

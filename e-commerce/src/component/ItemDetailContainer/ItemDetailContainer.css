@@ -1,0 +1,38 @@
+.card-detail{
+    display: block;
+    padding: 16px 10px;
+    border-radius: 5px;
+    background-color: #025C7E;
+    margin: 20px;
+}
+
+.card-body-detail{
+    text-align: center;
+    margin: 5px;
+}
+
+.card-body-detail h1{
+    font-size: medium;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-img-top{
+    width: 250px;
+    height: auto;
+
+}
+
+.card-body-detail h2{
+    font-size: small;
+    font-weight: 700;
+}
+
+.card-body-detail p{
+    text-align: center;
+    margin-right: 5px;
+}
+
+.card-body-detail button{
+    margin: 10px;
+}
