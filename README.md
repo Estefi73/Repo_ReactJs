@@ -14,7 +14,7 @@ Soy Estefania. Este es mi proyecto final para el curso de ReactJS en CoderHouse.
 
 ![image](https://github.com/Estefi73/Repo_ReactJs/assets/45629720/a9bb2be5-c57c-44a4-b74b-a8bab093e978)
 
-#DATOS
+# DATOS
 
 Estudiante: Estefania Ochoa.\
 GitHub: https://github.com/Estefi73 \
@@ -23,9 +23,9 @@ Comisión: 43305. \
 Profesor: Santiago Salkin. \
 Tutor Adjunto: Enzo Gustavo Agú. 
 
-#FRONTEND
+# FRONTEND
 
-##LIBRERIAS
+## LIBRERIAS
 
 Firebase. \
 Sweetalert2. \
